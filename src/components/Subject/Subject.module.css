@@ -1,0 +1,18 @@
+.container {
+  width: 420px;
+  height: 210px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.choice {
+  width: 200px;
+  height: 200px;
+  outline: 1px solid red;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
